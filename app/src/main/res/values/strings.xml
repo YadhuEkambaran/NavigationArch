@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">NavigationArch</string>
+
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="go_to_first_page">Go to first page</string>
+    <string name="hint_user_name">Username</string>
+</resources>
